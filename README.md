@@ -97,7 +97,7 @@ See `/docs/architecture.md`
 
 ---
 
-## 🧪 Future Improvements
+## 📈 Future Improvements
 
 - Real financial APIs integration
 - ML-based recommendation engine
@@ -115,4 +115,14 @@ See `/docs/architecture.md`
 
 ## 📜 License
 
-MIT
+This project is licensed under the MIT License.
+
+## ⭐ Acknowledgements
+
+- Inspired by the need for personalized financial ecosystems
+- Built as part of an innovation/hackathon project
+
+If you want next, I can:
+- Add **badges (build, license, etc.)**
+- Customize it for **your exact tech stack**
+- Or generate a **full working starter repo (frontend + backend)** 🚀
