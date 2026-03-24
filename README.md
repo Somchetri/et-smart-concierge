@@ -1,4 +1,4 @@
-5# ET Smart Concierge 🤖💼
+# ET Smart Concierge 🤖💼
 
 An AI-powered financial assistant that personalizes the Economic Times (ET) ecosystem experience.
 
