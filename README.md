@@ -1,4 +1,4 @@
-# ET Smart Concierge 🤖💼
+5# ET Smart Concierge 🤖💼
 
 An AI-powered financial assistant that personalizes the Economic Times (ET) ecosystem experience.
 
@@ -108,8 +108,8 @@ See `/docs/architecture.md`
 
 ## 👥 Team
 
-- Your Name
-- Team Members
+- Your Name **Som Chetri**
+- Team Members 1
 
 ---
 
